@@ -1,6 +1,6 @@
 #pragma once
 
-#include "entity.hpp"
+#include <boot/entity.hpp>
 
 namespace system::boot
 {
